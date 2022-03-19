@@ -1,0 +1,10 @@
+tests/testSoapXml.class
+tests/sampleSakshitest.class
+Details.class
+EmployeePOJO.class
+tests/TestJSONSchemaValidation.class
+tests/TestGetandPost.class
+tests/XSDValidationwithXMLRequest.class
+Test01_Get.class
+TestPojo.class
+tests/TestPutPatchDelete.class

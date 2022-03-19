@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <data>
+      <element>
+         <avatar>https://reqres.in/img/faces/7-image.jpg</avatar>
+         <email>michael.lawson@reqres.in</email>
+         <first_name>Michael</first_name>
+         <id>7</id>
+         <last_name>Lawson</last_name>
+      </element>
+      <element>
+         <avatar>https://reqres.in/img/faces/8-image.jpg</avatar>
+         <email>lindsay.ferguson@reqres.in</email>
+         <first_name>Lindsay</first_name>
+         <id>8</id>
+         <last_name>Ferguson</last_name>
+      </element>
+      <element>
+         <avatar>https://reqres.in/img/faces/9-image.jpg</avatar>
+         <email>tobias.funke@reqres.in</email>
+         <first_name>Tobias</first_name>
+         <id>9</id>
+         <last_name>Funke</last_name>
+      </element>
+      <element>
+         <avatar>https://reqres.in/img/faces/10-image.jpg</avatar>
+         <email>byron.fields@reqres.in</email>
+         <first_name>Byron</first_name>
+         <id>10</id>
+         <last_name>Fields</last_name>
+      </element>
+      <element>
+         <avatar>https://reqres.in/img/faces/11-image.jpg</avatar>
+         <email>george.edwards@reqres.in</email>
+         <first_name>George</first_name>
+         <id>11</id>
+         <last_name>Edwards</last_name>
+      </element>
+      <element>
+         <avatar>https://reqres.in/img/faces/12-image.jpg</avatar>
+         <email>rachel.howell@reqres.in</email>
+         <first_name>Rachel</first_name>
+         <id>12</id>
+         <last_name>Howell</last_name>
+      </element>
+   </data>
+   <page>2</page>
+   <per_page>6</per_page>
+   <support>
+      <text>To keep ReqRes free, contributions towards server costs are appreciated!</text>
+      <url>https://reqres.in/#support-heading</url>
+   </support>
+   <total>12</total>
+   <total_pages>2</total_pages>
+</root>
